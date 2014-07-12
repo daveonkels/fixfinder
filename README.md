@@ -9,12 +9,17 @@ All credit goes to Christian Varga who solved this with a bit of Applescript wiz
 
 http://christianvarga.com/fix-finder-name-column-width-bug-osx-mavericks/
 
+Requirements
+----
+Alfred 2.0 + Powerpack
+Learn more at: http://www.alfredapp.com/
+
 Usage
 ----
 
-1. Clone this repo
-2. Double-click on the .workflow file
-3. Run by hitting **CMD + E** or the keyword "**fixfinder**"
+1. Double-click on the .workflow file
+2. Run by hitting **CMD + E** or the keyword "**fixfinder**"
+3. Enjoy restored sanity
 
 Applescript command in detail
 ----
