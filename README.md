@@ -11,8 +11,8 @@ http://christianvarga.com/fix-finder-name-column-width-bug-osx-mavericks/
 
 Requirements
 ----
-Alfred 2.0 + Powerpack
-Learn more at: http://www.alfredapp.com/
+* Alfred 2.0 + Powerpack
+* Learn more at: http://www.alfredapp.com/
 
 Usage
 ----
