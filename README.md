@@ -1,13 +1,14 @@
 FixFinder
 =========
 
-FixFinder aims to fix that most annoying Finder.app bug in Mavericks which extends the file name column beyond the width of the window. Viewing file dates and sizes is a test of patience.
+FixFinder aims to resolve that most annoying bug in Mavericks which extends the file name column beyond the width of the Finder window. Viewing file attributes requires horizontal scrolling skills and a good bit of patience.
 
 ![Missing Columns in Finder](http://d.pr/i/iHhQ+ "Finder Screenshot")
 
-All credit goes to Christian Varga who solved this with a bit of Applescript wizardry:
-
+Credit goes to Christian Varga who solved this with a bit of Applescript wizardry:
 http://christianvarga.com/fix-finder-name-column-width-bug-osx-mavericks/
+
+My only contribution is to convert into an Alfred Workflow for easy use.
 
 Requirements
 ----
