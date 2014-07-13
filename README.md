@@ -19,7 +19,7 @@ Usage
 ----
 
 1. Double-click on the .workflow file
-2. Invoke script using **CMD + E** or the keyword "**fixfinder**"
+2. Invoke script using **CMD + R** or the keyword "**fixfinder**"
 3. Enjoy restored sanity
 
 Applescript command in detail
